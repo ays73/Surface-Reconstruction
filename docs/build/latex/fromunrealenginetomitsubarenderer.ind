@@ -1,0 +1,58 @@
+\begin{sphinxtheindex}
+\let\bigletter\sphinxstyleindexlettergroup
+\let\spxpagem \sphinxstyleindexpagemain
+\let\spxentry \sphinxstyleindexentry
+\let\spxextra \sphinxstyleindexextra
+
+  \bigletter B
+  \item \spxentry{blender\_export}
+    \subitem \spxentry{module}, \hyperpage{1}
+  \item \spxentry{blender\_to\_mitsuba\_vec()}\spxextra{in module blender\_export}, \hyperpage{1}
+
+  \indexspace
+  \bigletter C
+  \item \spxentry{clear\_scene()}\spxextra{in module blender\_export}, \hyperpage{1}
+
+  \indexspace
+  \bigletter G
+  \item \spxentry{get\_lights()}\spxextra{in module blender\_export}, \hyperpage{1}
+
+  \indexspace
+  \bigletter I
+  \item \spxentry{import\_fbx()}\spxextra{in module blender\_export}, \hyperpage{1}
+
+  \indexspace
+  \bigletter L
+  \item \spxentry{load\_emitters()}\spxextra{in module mitsuba\_render\_h5}, \hyperpage{3}
+
+  \indexspace
+  \bigletter M
+  \item \spxentry{main()}\spxextra{in module blender\_export}, \hyperpage{1}
+  \item \spxentry{main()}\spxextra{in module mitsuba\_render\_h5}, \hyperpage{3}
+  \item \spxentry{mitsuba\_render\_h5}
+    \subitem \spxentry{module}, \hyperpage{3}
+  \item \spxentry{module}
+    \subitem \spxentry{blender\_export}, \hyperpage{1}
+    \subitem \spxentry{mitsuba\_render\_h5}, \hyperpage{3}
+    \subitem \spxentry{test\_mitsuba\_render\_h5}, \hyperpage{5}
+
+  \indexspace
+  \bigletter R
+  \item \spxentry{render\_scene()}\spxextra{in module mitsuba\_render\_h5}, \hyperpage{3}
+  \item \spxentry{render\_scenes\_h5()}\spxextra{in module mitsuba\_render\_h5}, \hyperpage{3}
+
+  \indexspace
+  \bigletter T
+  \item \spxentry{test\_check\_missing\_files()}\spxextra{in module test\_mitsuba\_render\_h5}, 
+		\hyperpage{5}
+  \item \spxentry{test\_load\_emitters\_missing\_file()}\spxextra{in module test\_mitsuba\_render\_h5}, 
+		\hyperpage{5}
+  \item \spxentry{test\_mitsuba\_render\_h5}
+    \subitem \spxentry{module}, \hyperpage{5}
+  \item \spxentry{test\_no\_scenes()}\spxextra{in module test\_mitsuba\_render\_h5}, \hyperpage{5}
+
+  \indexspace
+  \bigletter W
+  \item \spxentry{write\_mitsuba\_xml()}\spxextra{in module blender\_export}, \hyperpage{1}
+
+\end{sphinxtheindex}

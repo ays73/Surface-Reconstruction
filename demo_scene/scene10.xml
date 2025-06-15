@@ -1,0 +1,11 @@
+<scene version="3.0.0">
+  <integrator type="path"/>
+  <emitter type="point">
+    <point name="position" x="4.820788383483887" y="0.8805931806564331" z="2.2584950923919678"/>
+    <rgb name="intensity" value="0.07999999821186066 0.07999999821186066 0.07999999821186066"/>
+  </emitter>
+  <emitter type="point">
+    <point name="position" x="5.0" y="0.09999999403953552" z="-1.899999976158142"/>
+    <rgb name="intensity" value="0.07999999821186066 0.07999999821186066 0.07999999821186066"/>
+  </emitter>
+</scene>
